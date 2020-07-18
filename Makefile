@@ -1,10 +1,10 @@
 include .env
-export 
+export
 
 clean:
 	- rm -rf .venv
 
-setup: 
+setup:
 	- python3 -m venv .venv; \
 	. .venv/bin/activate; \
 	pip install -r requirements-dev.txt; \
@@ -12,10 +12,14 @@ setup:
 
 update:
 	- . .venv/bin/activate; \
-	pip install -r requirements-dev.txt; \ 
+	pip install -r requirements-dev.txt; \
 	pip install -r requirements.txt
 
 format:
 	- . .venv/bin/activate; \
 	isort -rc .; \
-	black . 
+	black .
+
+run:
+	- . .venv/bin/activate; \
+	python bot.py
