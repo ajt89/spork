@@ -1,5 +1,7 @@
 SPORK_PLAYLIST_URI = "spotify:playlist:3dXsbZtydsJY7zHd8x7k5s"
-SPORK_PLAYLIST_URL = "https://open.spotify.com/playlist/3dXsbZtydsJY7zHd8x7k5s?si=SUJSJPWzRCaEY-0I0F1emQ"
+SPORK_PLAYLIST_URL = (
+    "https://open.spotify.com/playlist/3dXsbZtydsJY7zHd8x7k5s?si=SUJSJPWzRCaEY-0I0F1emQ"
+)
 SPORK_PLAYLIST_ID = "3dXsbZtydsJY7zHd8x7k5s"
 SPORK_PLAYLIST_LENGTH = 5
 
