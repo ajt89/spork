@@ -1,2 +1,3 @@
 black==19.10b0
 isort==5.1.1
+unittest-parallel==0.8.7
