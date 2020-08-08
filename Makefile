@@ -17,9 +17,18 @@ update:
 
 format:
 	- . .venv/bin/activate; \
-	isort -rc .; \
+	isort .; \
 	black .
+
+test:
+	- . .venv/bin/activate; \
+	unittest-parallel -t . -s tests
+
+test-file:
+	- . .venv/bin/activate; \
+	python -m unittest tests/$(TEST_FILE)
 
 run:
 	- . .venv/bin/activate; \
 	python bot.py
+
