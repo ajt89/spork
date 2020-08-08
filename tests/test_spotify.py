@@ -1,15 +1,15 @@
 from unittest import TestCase, mock
 
-from spotify.query import SpotifyQuery, SpotifyTracks, SpotifyTrack
+from spotify.query import SpotifyQuery, SpotifyTrack, SpotifyTracks
 from tests.spork_constants import (
+    SPORK_ALBUM_ID,
     SPORK_ALBUM_LENGTH,
     SPORK_PLAYLIST_ID,
     SPORK_PLAYLIST_LENGTH,
-    SPORK_TRACK_ID,
-    SPORK_ALBUM_ID,
     SPORK_TRACK_ARTISTS,
-    SPORK_TRACK_NAME,
+    SPORK_TRACK_ID,
     SPORK_TRACK_LENGTH,
+    SPORK_TRACK_NAME,
 )
 
 
