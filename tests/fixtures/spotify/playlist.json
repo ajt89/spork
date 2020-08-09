@@ -1,0 +1,471 @@
+{
+	"href": "https://api.spotify.com/v1/playlists/3dXsbZtydsJY7zHd8x7k5s/tracks?offset=0&limit=100&additional_types=track",
+	"items": [{
+		"added_at": "2020-08-08T22:18:30Z",
+		"added_by": {
+			"external_urls": {
+				"spotify": "https://open.spotify.com/user/1217568283"
+			},
+			"href": "https://api.spotify.com/v1/users/1217568283",
+			"id": "1217568283",
+			"type": "user",
+			"uri": "spotify:user:1217568283"
+		},
+		"is_local": false,
+		"primary_color": null,
+		"track": {
+			"album": {
+				"album_type": "single",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+					},
+					"href": "https://api.spotify.com/v1/artists/6OqhFYFJDnBBHas02HopPT",
+					"id": "6OqhFYFJDnBBHas02HopPT",
+					"name": "Kero Kero Bonito",
+					"type": "artist",
+					"uri": "spotify:artist:6OqhFYFJDnBBHas02HopPT"
+				}],
+				"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2xLjorF0M6LHPqk2qmZJOV"
+				},
+				"href": "https://api.spotify.com/v1/albums/2xLjorF0M6LHPqk2qmZJOV",
+				"id": "2xLjorF0M6LHPqk2qmZJOV",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/ab67616d0000b273d4eba34bd4ccf2d51d25e21c",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/ab67616d00001e02d4eba34bd4ccf2d51d25e21c",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/ab67616d00004851d4eba34bd4ccf2d51d25e21c",
+					"width": 64
+				}],
+				"name": "Flamingo",
+				"release_date": "2014-09-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:2xLjorF0M6LHPqk2qmZJOV"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+				},
+				"href": "https://api.spotify.com/v1/artists/6OqhFYFJDnBBHas02HopPT",
+				"id": "6OqhFYFJDnBBHas02HopPT",
+				"name": "Kero Kero Bonito",
+				"type": "artist",
+				"uri": "spotify:artist:6OqhFYFJDnBBHas02HopPT"
+			}],
+			"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+			"disc_number": 1,
+			"duration_ms": 197528,
+			"episode": false,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "GBKPL1522424"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/3AaiEsiqHO2ylnnOdWninE"
+			},
+			"href": "https://api.spotify.com/v1/tracks/3AaiEsiqHO2ylnnOdWninE",
+			"id": "3AaiEsiqHO2ylnnOdWninE",
+			"is_local": false,
+			"name": "Flamingo",
+			"popularity": 65,
+			"preview_url": "https://p.scdn.co/mp3-preview/78756214124181a08331355bf6bb7741901efbcf?cid=3fde04cab23e4b789acdb9f275926839",
+			"track": true,
+			"track_number": 1,
+			"type": "track",
+			"uri": "spotify:track:3AaiEsiqHO2ylnnOdWninE"
+		},
+		"video_thumbnail": {
+			"url": null
+		}
+	}, {
+		"added_at": "2020-08-08T22:18:39Z",
+		"added_by": {
+			"external_urls": {
+				"spotify": "https://open.spotify.com/user/1217568283"
+			},
+			"href": "https://api.spotify.com/v1/users/1217568283",
+			"id": "1217568283",
+			"type": "user",
+			"uri": "spotify:user:1217568283"
+		},
+		"is_local": false,
+		"primary_color": null,
+		"track": {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+					},
+					"href": "https://api.spotify.com/v1/artists/3Rq3YOF9YG9YfCWD4D56RZ",
+					"id": "3Rq3YOF9YG9YfCWD4D56RZ",
+					"name": "Nujabes",
+					"type": "artist",
+					"uri": "spotify:artist:3Rq3YOF9YG9YfCWD4D56RZ"
+				}],
+				"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+				},
+				"href": "https://api.spotify.com/v1/albums/6nVACH6a27eOWiumAJhDWS",
+				"id": "6nVACH6a27eOWiumAJhDWS",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/ab67616d00001e02912cc8fe2e9a53d328757a41",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/ab67616d00004851912cc8fe2e9a53d328757a41",
+					"width": 64
+				}],
+				"name": "Modal Soul",
+				"release_date": "2005-11-11",
+				"release_date_precision": "day",
+				"total_tracks": 14,
+				"type": "album",
+				"uri": "spotify:album:6nVACH6a27eOWiumAJhDWS"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+				},
+				"href": "https://api.spotify.com/v1/artists/3Rq3YOF9YG9YfCWD4D56RZ",
+				"id": "3Rq3YOF9YG9YfCWD4D56RZ",
+				"name": "Nujabes",
+				"type": "artist",
+				"uri": "spotify:artist:3Rq3YOF9YG9YfCWD4D56RZ"
+			}, {
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/33U7NALGE1kDIhgwofWG2s"
+				},
+				"href": "https://api.spotify.com/v1/artists/33U7NALGE1kDIhgwofWG2s",
+				"id": "33U7NALGE1kDIhgwofWG2s",
+				"name": "Cise Star",
+				"type": "artist",
+				"uri": "spotify:artist:33U7NALGE1kDIhgwofWG2s"
+			}, {
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/2HTvHHSj0INyoVfW2LDs6X"
+				},
+				"href": "https://api.spotify.com/v1/artists/2HTvHHSj0INyoVfW2LDs6X",
+				"id": "2HTvHHSj0INyoVfW2LDs6X",
+				"name": "Akin",
+				"type": "artist",
+				"uri": "spotify:artist:2HTvHHSj0INyoVfW2LDs6X"
+			}],
+			"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+			"disc_number": 1,
+			"duration_ms": 175360,
+			"episode": false,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "JPH491605000"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
+			},
+			"href": "https://api.spotify.com/v1/tracks/2ej1A2Ze6P2EOW7KfIosZR",
+			"id": "2ej1A2Ze6P2EOW7KfIosZR",
+			"is_local": false,
+			"name": "Feather (feat. Cise Starr & Akin from CYNE)",
+			"popularity": 61,
+			"preview_url": "https://p.scdn.co/mp3-preview/ffdb6a7ce756ff9ff6e1e6c02592c5520cdd869d?cid=3fde04cab23e4b789acdb9f275926839",
+			"track": true,
+			"track_number": 1,
+			"type": "track",
+			"uri": "spotify:track:2ej1A2Ze6P2EOW7KfIosZR"
+		},
+		"video_thumbnail": {
+			"url": null
+		}
+	}, {
+		"added_at": "2020-08-08T22:18:55Z",
+		"added_by": {
+			"external_urls": {
+				"spotify": "https://open.spotify.com/user/1217568283"
+			},
+			"href": "https://api.spotify.com/v1/users/1217568283",
+			"id": "1217568283",
+			"type": "user",
+			"uri": "spotify:user:1217568283"
+		},
+		"is_local": false,
+		"primary_color": null,
+		"track": {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+					},
+					"href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+					"id": "2YZyLoL8N0Wb9xBt1NhZWg",
+					"name": "Kendrick Lamar",
+					"type": "artist",
+					"uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+				}],
+				"available_markets": ["CA", "MX", "US"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+				},
+				"href": "https://api.spotify.com/v1/albums/6PBZN8cbwkqm1ERj2BGXJ1",
+				"id": "6PBZN8cbwkqm1ERj2BGXJ1",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/ab67616d00001e02d28d2ebdedb220e479743797",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
+					"width": 64
+				}],
+				"name": "good kid, m.A.A.d city",
+				"release_date": "2012",
+				"release_date_precision": "year",
+				"total_tracks": 13,
+				"type": "album",
+				"uri": "spotify:album:6PBZN8cbwkqm1ERj2BGXJ1"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+				},
+				"href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+				"id": "2YZyLoL8N0Wb9xBt1NhZWg",
+				"name": "Kendrick Lamar",
+				"type": "artist",
+				"uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+			}, {
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+				},
+				"href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+				"id": "28ExwzUQsvgJooOI0X1mr3",
+				"name": "Jay Rock",
+				"type": "artist",
+				"uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+			}],
+			"available_markets": ["CA", "MX", "US"],
+			"disc_number": 1,
+			"duration_ms": 386906,
+			"episode": false,
+			"explicit": true,
+			"external_ids": {
+				"isrc": "USUM71210785"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+			},
+			"href": "https://api.spotify.com/v1/tracks/2HbKqm4o0w5wEeEFXm2sD4",
+			"id": "2HbKqm4o0w5wEeEFXm2sD4",
+			"is_local": false,
+			"name": "Money Trees",
+			"popularity": 73,
+			"preview_url": null,
+			"track": true,
+			"track_number": 5,
+			"type": "track",
+			"uri": "spotify:track:2HbKqm4o0w5wEeEFXm2sD4"
+		},
+		"video_thumbnail": {
+			"url": null
+		}
+	}, {
+		"added_at": "2020-08-08T22:19:27Z",
+		"added_by": {
+			"external_urls": {
+				"spotify": "https://open.spotify.com/user/1217568283"
+			},
+			"href": "https://api.spotify.com/v1/users/1217568283",
+			"id": "1217568283",
+			"type": "user",
+			"uri": "spotify:user:1217568283"
+		},
+		"is_local": false,
+		"primary_color": null,
+		"track": {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv"
+					},
+					"href": "https://api.spotify.com/v1/artists/4aFf48VQYRT631OJGgVwUv",
+					"id": "4aFf48VQYRT631OJGgVwUv",
+					"name": "Max Coveri",
+					"type": "artist",
+					"uri": "spotify:artist:4aFf48VQYRT631OJGgVwUv"
+				}],
+				"available_markets": ["AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HR", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SI", "SK", "SV", "TN", "TW", "UA", "US", "UY", "XK", "ZA"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5tA7EPsnUBMdV3t0uNdIpy"
+				},
+				"href": "https://api.spotify.com/v1/albums/5tA7EPsnUBMdV3t0uNdIpy",
+				"id": "5tA7EPsnUBMdV3t0uNdIpy",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/ab67616d0000b273ff8e84a3595776cd54c38598",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/ab67616d00001e02ff8e84a3595776cd54c38598",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/ab67616d00004851ff8e84a3595776cd54c38598",
+					"width": 64
+				}],
+				"name": "Delta Ultimate Collection Presents",
+				"release_date": "2019-03-15",
+				"release_date_precision": "day",
+				"total_tracks": 15,
+				"type": "album",
+				"uri": "spotify:album:5tA7EPsnUBMdV3t0uNdIpy"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv"
+				},
+				"href": "https://api.spotify.com/v1/artists/4aFf48VQYRT631OJGgVwUv",
+				"id": "4aFf48VQYRT631OJGgVwUv",
+				"name": "Max Coveri",
+				"type": "artist",
+				"uri": "spotify:artist:4aFf48VQYRT631OJGgVwUv"
+			}],
+			"available_markets": ["AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HR", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SI", "SK", "SV", "TN", "TW", "UA", "US", "UY", "XK", "ZA"],
+			"disc_number": 1,
+			"duration_ms": 333000,
+			"episode": false,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "ITB111500911"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/3iodYxNdIC2C8zYtnG6a0H"
+			},
+			"href": "https://api.spotify.com/v1/tracks/3iodYxNdIC2C8zYtnG6a0H",
+			"id": "3iodYxNdIC2C8zYtnG6a0H",
+			"is_local": false,
+			"name": "Running in The 90's",
+			"popularity": 30,
+			"preview_url": "https://p.scdn.co/mp3-preview/ff43e6c9eb6a2946ff1050e7e45c77bde40369af?cid=3fde04cab23e4b789acdb9f275926839",
+			"track": true,
+			"track_number": 3,
+			"type": "track",
+			"uri": "spotify:track:3iodYxNdIC2C8zYtnG6a0H"
+		},
+		"video_thumbnail": {
+			"url": null
+		}
+	}, {
+		"added_at": "2020-08-08T22:22:46Z",
+		"added_by": {
+			"external_urls": {
+				"spotify": "https://open.spotify.com/user/1217568283"
+			},
+			"href": "https://api.spotify.com/v1/users/1217568283",
+			"id": "1217568283",
+			"type": "user",
+			"uri": "spotify:user:1217568283"
+		},
+		"is_local": false,
+		"primary_color": null,
+		"track": {
+			"album": {
+				"album_type": "single",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu"
+					},
+					"href": "https://api.spotify.com/v1/artists/5Z8Qlj0jWh0OOmJ55EwSnu",
+					"id": "5Z8Qlj0jWh0OOmJ55EwSnu",
+					"name": "Draper",
+					"type": "artist",
+					"uri": "spotify:artist:5Z8Qlj0jWh0OOmJ55EwSnu"
+				}],
+				"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/39OkqlJ7U18VkCYk4HA1gg"
+				},
+				"href": "https://api.spotify.com/v1/albums/39OkqlJ7U18VkCYk4HA1gg",
+				"id": "39OkqlJ7U18VkCYk4HA1gg",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/ab67616d0000b2736903553364cf6efe475dee48",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/ab67616d00001e026903553364cf6efe475dee48",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/ab67616d000048516903553364cf6efe475dee48",
+					"width": 64
+				}],
+				"name": "Perspectives",
+				"release_date": "2014-09-12",
+				"release_date_precision": "day",
+				"total_tracks": 4,
+				"type": "album",
+				"uri": "spotify:album:39OkqlJ7U18VkCYk4HA1gg"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu"
+				},
+				"href": "https://api.spotify.com/v1/artists/5Z8Qlj0jWh0OOmJ55EwSnu",
+				"id": "5Z8Qlj0jWh0OOmJ55EwSnu",
+				"name": "Draper",
+				"type": "artist",
+				"uri": "spotify:artist:5Z8Qlj0jWh0OOmJ55EwSnu"
+			}],
+			"available_markets": ["AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA"],
+			"disc_number": 1,
+			"duration_ms": 227834,
+			"episode": false,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "CA6D21400019"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/0wAPK7DXS2x60zCtsHAnhl"
+			},
+			"href": "https://api.spotify.com/v1/tracks/0wAPK7DXS2x60zCtsHAnhl",
+			"id": "0wAPK7DXS2x60zCtsHAnhl",
+			"is_local": false,
+			"name": "Joyride",
+			"popularity": 21,
+			"preview_url": "https://p.scdn.co/mp3-preview/152cc35f3ff249cd7d361e71efc886969ee4e6e5?cid=3fde04cab23e4b789acdb9f275926839",
+			"track": true,
+			"track_number": 3,
+			"type": "track",
+			"uri": "spotify:track:0wAPK7DXS2x60zCtsHAnhl"
+		},
+		"video_thumbnail": {
+			"url": null
+		}
+	}],
+	"limit": 100,
+	"next": null,
+	"offset": 0,
+	"previous": null,
+	"total": 5
+}
