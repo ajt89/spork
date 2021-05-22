@@ -1,34 +1,17 @@
 include .env
-export
-
-clean:
-	- rm -rf .venv
 
 setup:
-	- python3 -m venv .venv; \
-	. .venv/bin/activate; \
-	pip install -r requirements-dev.txt; \
-	pip install -r requirements.txt
-
-update:
-	- . .venv/bin/activate; \
-	pip install -r requirements-dev.txt; \
-	pip install -r requirements.txt
+	- pipenv install --python=$(PYENV_ROOT)/versions/3.7.10/bin/python --dev
 
 format:
-	- . .venv/bin/activate; \
-	isort .; \
-	black .
+	- pipenv run isort .; \
+	pipenv run black .
 
 test:
-	- . .venv/bin/activate; \
-	unittest-parallel -t . -s tests
+	- pipenv run unittest-parallel -t . -s tests
 
 test-file:
-	- . .venv/bin/activate; \
-	python -m unittest tests/$(TEST_FILE)
+	- pipenv run unittest tests/$(TEST_FILE)
 
 run:
-	- . .venv/bin/activate; \
-	python bot.py
-
+	- pipenv run bot.py
