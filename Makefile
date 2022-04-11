@@ -8,10 +8,10 @@ format:
 	python3 -m pipenv run black .
 
 test:
-	- python3 -m pipenv run unittest-parallel -t . -s tests
+	- python3 -m pipenv run unittest-parallel -t . -s tests --class-fixtures
 
 test-file:
-	- python3 -m pipenv run unittest tests/$(TEST_FILE)
+	- python3 -m pipenv run python -m unittest tests/$(TEST_FILE)
 
 run:
 	- python3 -m pipenv run bot.py
