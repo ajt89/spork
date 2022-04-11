@@ -1,7 +1,7 @@
 include .env
 
 setup:
-	- python3 -m pipenv install --python=$(PYENV_ROOT)/versions/3.7.10/bin/python --dev
+	- python3 -m pipenv install --python=$(PYENV_ROOT)/versions/3.9.12/bin/python --dev
 
 format:
 	- python3 -m pipenv run isort .; \
