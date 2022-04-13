@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from unittest import TestCase, mock
 
-from spotify.query import SpotifyQuery, SpotifyTrack, SpotifyTracks
+from spotify.query import SpotifyQuery
 from tests.spork_constants import (
     SPORK_ALBUM_ID,
     SPORK_ALBUM_LENGTH,

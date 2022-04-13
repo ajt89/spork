@@ -1,3 +1,4 @@
 DISCORD_BOT_TOKEN=<bot-token-here>
 SPOTIPY_CLIENT_ID=<client-id-here>
 SPOTIPY_CLIENT_SECRET=<client-secret-here>
+YOUTUBE_API_KEY=<api-key-here>
