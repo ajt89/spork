@@ -14,4 +14,4 @@ test-file:
 	- python3 -m pipenv run python -m unittest tests/$(TEST_FILE)
 
 run:
-	- python3 -m pipenv run bot.py
+	- python3 -m pipenv run python bot.py
