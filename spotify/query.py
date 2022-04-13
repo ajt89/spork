@@ -1,12 +1,7 @@
-import json
-from typing import List
-
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyClientCredentials
 
-from spotify.models.track import SpotifyTrack
-
-SpotifyTracks = List[SpotifyTrack]
+from spotify.models.track import SpotifyTrack, SpotifyTracks
 
 
 class SpotifyQuery:

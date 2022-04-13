@@ -1,0 +1,176 @@
+{
+	"kind": "youtube#searchListResponse",
+	"etag": "_3_rKg5b-w287v_OIBpG6-AAghM",
+	"nextPageToken": "CAUQAA",
+	"regionCode": "US",
+	"pageInfo": {
+		"totalResults": 285722,
+		"resultsPerPage": 5
+	},
+	"items": [{
+		"kind": "youtube#searchResult",
+		"etag": "8OwpFpqOb3wpfC_o1bA92AwlprM",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "rY-FJvRqK0E"
+		},
+		"snippet": {
+			"publishedAt": "2016-02-01T17:56:01Z",
+			"channelId": "UC87PQkY3dDS-FastDm97emA",
+			"title": "Kero Kero Bonito - Flamingo",
+			"description": "Spotify https://t.co/DsO0JRvBZY Soundcloud https://soundcloud.com/shhsecretsongs/kero-kero-bonito-flamingo ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/rY-FJvRqK0E/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/rY-FJvRqK0E/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/rY-FJvRqK0E/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Kero Kero Bonito",
+			"liveBroadcastContent": "none",
+			"publishTime": "2016-02-01T17:56:01Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "1Qcus7EGiNNjEqqPVuZF3ZSEfTo",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "oJIkBSaGiG0"
+		},
+		"snippet": {
+			"publishedAt": "2019-01-06T05:17:54Z",
+			"channelId": "UCoZWNgdlfjpGKH7r1z8yY3A",
+			"title": "Kero Kero Bonito -  Flamingo (English Version)",
+			"description": "The best rip of the new version of this amazing single. From my personal copy of the vinyl. Lineage: JVC QL-A51 Audio Technica ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/oJIkBSaGiG0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/oJIkBSaGiG0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/oJIkBSaGiG0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Gem Archive",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-01-06T05:17:54Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "4XP8tAKM0EmKpa57k6a8fyzqlxs",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "QSpKukEWYWM"
+		},
+		"snippet": {
+			"publishedAt": "2018-05-17T23:29:14Z",
+			"channelId": "UCcFFoW9FMLnupJasidnFvXA",
+			"title": "Kero Kero Bonito - Flamingo (lyrics)",
+			"description": "Kero Kero Bonito - Flamingo Released on September 21, 2014 Subscribe for more lyrics videos.",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/QSpKukEWYWM/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/QSpKukEWYWM/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/QSpKukEWYWM/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Green Haired Gaia",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-05-17T23:29:14Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "mKCgi0LUYphfEbMwaunZIDjJhFQ",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "JszzYm5nHlE"
+		},
+		"snippet": {
+			"publishedAt": "2016-11-18T10:45:06Z",
+			"channelId": "UCrndlSGYHWHOf8qGoNVb3-w",
+			"title": "Kero-kero Bonito - Flamingo - Live at Indonesia Morning Show",
+			"description": "Program yang menampilkan berbagai paket informasi terkini (hard news, light news, entertainment news) yang dibawakan ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/JszzYm5nHlE/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/JszzYm5nHlE/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/JszzYm5nHlE/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Indonesia Morning Show NET",
+			"liveBroadcastContent": "none",
+			"publishTime": "2016-11-18T10:45:06Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "tnXBGPr_Ygy4VDDg8ZCN49O7Fe0",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "meDhP3srTG4"
+		},
+		"snippet": {
+			"publishedAt": "2017-10-18T03:58:38Z",
+			"channelId": "UC1vBwWiFxSnNtdcRTMgFz0Q",
+			"title": "Kero Kero Bonito - Flamingo [1 HOUR EDITION]",
+			"description": "another one of these, yay!!!!!!!!!! (suggested by my friend uzoma) anyways, sorry i haven't really been that active, school's got me ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/meDhP3srTG4/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/meDhP3srTG4/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/meDhP3srTG4/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "hominine",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-10-18T03:58:38Z"
+		}
+	}]
+}

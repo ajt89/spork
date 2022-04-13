@@ -1,3 +1,6 @@
+from typing import List
+
+
 class SpotifyTrack:
     def __init__(self, track_data):
         self.artists = [artist.get("name") for artist in track_data.get("artists")]
@@ -6,4 +9,7 @@ class SpotifyTrack:
         self.id = track_data.get("id")
 
     def get_query_statement(self):
-        return f"{self.name} {' '.join(artists)}"
+        return f"{self.name} {' '.join(self.artists)}"
+
+
+SpotifyTracks = List[SpotifyTrack]
