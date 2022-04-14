@@ -20,4 +20,5 @@ SPORK_TRACK_LENGTH = 197528
 YOUTUBE_QUERY = f"{SPORK_TRACK_NAME} {' '.join(SPORK_TRACK_ARTISTS)}"
 YOUTUBE_ID = "rY-FJvRqK0E"
 YOUTUBE_TITLE = "Kero Kero Bonito - Flamingo"
+YOUTUBE_URL = "https://www.youtube.com/watch?v=rY-FJvRqK0E"
 YOUTUBE_VIDEOS_COUNT = 5
