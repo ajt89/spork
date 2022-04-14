@@ -24,12 +24,12 @@ class TestYoutubeQuery(TestCase):
 
     @mock.patch("youtube.models.video.requests.get")
     def test_validate_url_valid(self, mock_get):
-        mock_get.return_value.text = "This video isn't available anymore"
+        mock_get.return_value.text = "ok"
 
         self.assertTrue(self.youtube_video.validate_url())
 
     @mock.patch("youtube.models.video.requests.get")
     def test_validate_url_invalid(self, mock_get):
-        mock_get.return_value.text = "ok"
+        mock_get.return_value.text = "This video isn't available anymore"
 
         self.assertFalse(self.youtube_video.validate_url())

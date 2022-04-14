@@ -11,7 +11,7 @@ class YoutubeVideo:
 
     def validate_url(self) -> bool:
         response = requests.get(self.url)
-        return bool("This video isn't available anymore" in response.text)
+        return bool("This video isn't available anymore" not in response.text)
 
 
 YoutubeVideos = List[YoutubeVideo]
