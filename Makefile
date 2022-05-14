@@ -7,6 +7,9 @@ format:
 	- python3 -m pipenv run isort .; \
 	python3 -m pipenv run black .
 
+type-check:
+	- python3 -m pipenv run mypy --namespace-packages .
+
 test:
 	- python3 -m pipenv run unittest-parallel -t . -s tests --class-fixtures
 
